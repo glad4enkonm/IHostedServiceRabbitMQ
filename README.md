@@ -8,7 +8,7 @@ A simple RabbitMQ client implemented in .net core 2.2 with IHostedService
 3.	dotnet add package Microsoft.Extensions.Hosting --version 2.2.0
 4.	dotnet add package Microsoft.Extensions.DependencyInjection --version 2.2.0
 5.	dotnet add package RabbitMQ.Client --version 5.1.0
-6.	add '<LangVersion>latest</LangVersion>' to a .csproj file
+6.	add `<LangVersion>latest</LangVersion>` to a .csproj file
 
 # Build and Run
 dotnet build
