@@ -12,4 +12,5 @@ A simple RabbitMQ client implemented in .net core 2.2 with IHostedService
 
 # Build and Run
 dotnet build
+
 dotnet run
